@@ -1,0 +1,1001 @@
+student_id,nombre,carrera,anio
+1,Becario_1,Contaduría,2
+2,Becario_2,Administración,4
+3,Becario_3,Diseño,3
+4,Becario_4,Arquitectura,1
+5,Becario_5,Contaduría,5
+6,Becario_6,Ing. Civil,4
+7,Becario_7,Derecho,1
+8,Becario_8,Contaduría,3
+9,Becario_9,Diseño,4
+10,Becario_10,Arquitectura,2
+11,Becario_11,Administración,1
+12,Becario_12,Diseño,1
+13,Becario_13,Diseño,1
+14,Becario_14,Derecho,4
+15,Becario_15,Psicología,5
+16,Becario_16,Arquitectura,1
+17,Becario_17,Medicina,2
+18,Becario_18,Diseño,1
+19,Becario_19,Psicología,1
+20,Becario_20,Medicina,4
+21,Becario_21,Arquitectura,2
+22,Becario_22,Ing. Sistemas,2
+23,Becario_23,Ing. Civil,2
+24,Becario_24,Psicología,3
+25,Becario_25,Comunicación,2
+26,Becario_26,Ing. Sistemas,4
+27,Becario_27,Ing. Civil,2
+28,Becario_28,Derecho,4
+29,Becario_29,Contaduría,3
+30,Becario_30,Administración,1
+31,Becario_31,Comunicación,2
+32,Becario_32,Derecho,4
+33,Becario_33,Arquitectura,5
+34,Becario_34,Derecho,3
+35,Becario_35,Contaduría,3
+36,Becario_36,Arquitectura,5
+37,Becario_37,Comunicación,3
+38,Becario_38,Contaduría,1
+39,Becario_39,Medicina,5
+40,Becario_40,Administración,2
+41,Becario_41,Comunicación,3
+42,Becario_42,Medicina,1
+43,Becario_43,Ing. Civil,1
+44,Becario_44,Comunicación,2
+45,Becario_45,Ing. Civil,4
+46,Becario_46,Arquitectura,2
+47,Becario_47,Medicina,2
+48,Becario_48,Administración,2
+49,Becario_49,Contaduría,3
+50,Becario_50,Diseño,5
+51,Becario_51,Derecho,3
+52,Becario_52,Ing. Sistemas,3
+53,Becario_53,Administración,4
+54,Becario_54,Medicina,3
+55,Becario_55,Diseño,1
+56,Becario_56,Administración,2
+57,Becario_57,Medicina,2
+58,Becario_58,Psicología,2
+59,Becario_59,Psicología,2
+60,Becario_60,Ing. Civil,4
+61,Becario_61,Administración,2
+62,Becario_62,Psicología,3
+63,Becario_63,Medicina,3
+64,Becario_64,Ing. Civil,2
+65,Becario_65,Medicina,4
+66,Becario_66,Ing. Civil,3
+67,Becario_67,Administración,2
+68,Becario_68,Diseño,4
+69,Becario_69,Contaduría,3
+70,Becario_70,Comunicación,3
+71,Becario_71,Diseño,3
+72,Becario_72,Arquitectura,3
+73,Becario_73,Medicina,4
+74,Becario_74,Arquitectura,1
+75,Becario_75,Diseño,2
+76,Becario_76,Ing. Civil,1
+77,Becario_77,Comunicación,4
+78,Becario_78,Comunicación,2
+79,Becario_79,Ing. Sistemas,4
+80,Becario_80,Comunicación,3
+81,Becario_81,Contaduría,4
+82,Becario_82,Comunicación,5
+83,Becario_83,Diseño,4
+84,Becario_84,Ing. Sistemas,4
+85,Becario_85,Diseño,2
+86,Becario_86,Diseño,3
+87,Becario_87,Derecho,2
+88,Becario_88,Ing. Sistemas,1
+89,Becario_89,Diseño,3
+90,Becario_90,Derecho,3
+91,Becario_91,Derecho,2
+92,Becario_92,Ing. Sistemas,3
+93,Becario_93,Arquitectura,4
+94,Becario_94,Ing. Civil,3
+95,Becario_95,Contaduría,4
+96,Becario_96,Ing. Civil,4
+97,Becario_97,Comunicación,5
+98,Becario_98,Contaduría,3
+99,Becario_99,Comunicación,4
+100,Becario_100,Diseño,5
+101,Becario_101,Medicina,5
+102,Becario_102,Ing. Sistemas,1
+103,Becario_103,Contaduría,2
+104,Becario_104,Contaduría,2
+105,Becario_105,Diseño,1
+106,Becario_106,Arquitectura,3
+107,Becario_107,Derecho,4
+108,Becario_108,Diseño,4
+109,Becario_109,Psicología,1
+110,Becario_110,Derecho,4
+111,Becario_111,Ing. Sistemas,3
+112,Becario_112,Derecho,4
+113,Becario_113,Arquitectura,5
+114,Becario_114,Derecho,3
+115,Becario_115,Ing. Sistemas,2
+116,Becario_116,Arquitectura,4
+117,Becario_117,Ing. Civil,2
+118,Becario_118,Contaduría,1
+119,Becario_119,Contaduría,4
+120,Becario_120,Comunicación,2
+121,Becario_121,Ing. Civil,4
+122,Becario_122,Ing. Civil,2
+123,Becario_123,Derecho,4
+124,Becario_124,Contaduría,2
+125,Becario_125,Ing. Sistemas,5
+126,Becario_126,Administración,4
+127,Becario_127,Administración,1
+128,Becario_128,Arquitectura,3
+129,Becario_129,Contaduría,5
+130,Becario_130,Contaduría,3
+131,Becario_131,Administración,1
+132,Becario_132,Contaduría,3
+133,Becario_133,Derecho,3
+134,Becario_134,Psicología,4
+135,Becario_135,Medicina,3
+136,Becario_136,Ing. Civil,2
+137,Becario_137,Comunicación,2
+138,Becario_138,Arquitectura,3
+139,Becario_139,Psicología,2
+140,Becario_140,Administración,1
+141,Becario_141,Ing. Civil,5
+142,Becario_142,Contaduría,3
+143,Becario_143,Comunicación,3
+144,Becario_144,Contaduría,4
+145,Becario_145,Ing. Sistemas,3
+146,Becario_146,Ing. Sistemas,4
+147,Becario_147,Comunicación,3
+148,Becario_148,Comunicación,1
+149,Becario_149,Administración,2
+150,Becario_150,Comunicación,3
+151,Becario_151,Derecho,4
+152,Becario_152,Contaduría,1
+153,Becario_153,Psicología,1
+154,Becario_154,Diseño,2
+155,Becario_155,Comunicación,2
+156,Becario_156,Arquitectura,4
+157,Becario_157,Ing. Sistemas,2
+158,Becario_158,Derecho,3
+159,Becario_159,Ing. Civil,3
+160,Becario_160,Diseño,3
+161,Becario_161,Psicología,4
+162,Becario_162,Diseño,2
+163,Becario_163,Comunicación,4
+164,Becario_164,Administración,2
+165,Becario_165,Ing. Sistemas,2
+166,Becario_166,Ing. Sistemas,5
+167,Becario_167,Ing. Civil,1
+168,Becario_168,Administración,1
+169,Becario_169,Contaduría,4
+170,Becario_170,Medicina,1
+171,Becario_171,Derecho,4
+172,Becario_172,Ing. Sistemas,2
+173,Becario_173,Arquitectura,5
+174,Becario_174,Ing. Sistemas,4
+175,Becario_175,Diseño,3
+176,Becario_176,Ing. Sistemas,5
+177,Becario_177,Ing. Sistemas,2
+178,Becario_178,Medicina,5
+179,Becario_179,Medicina,1
+180,Becario_180,Psicología,3
+181,Becario_181,Contaduría,2
+182,Becario_182,Arquitectura,3
+183,Becario_183,Ing. Sistemas,1
+184,Becario_184,Ing. Sistemas,4
+185,Becario_185,Derecho,4
+186,Becario_186,Medicina,5
+187,Becario_187,Arquitectura,1
+188,Becario_188,Ing. Civil,3
+189,Becario_189,Psicología,3
+190,Becario_190,Contaduría,2
+191,Becario_191,Administración,2
+192,Becario_192,Contaduría,2
+193,Becario_193,Diseño,4
+194,Becario_194,Ing. Sistemas,3
+195,Becario_195,Psicología,3
+196,Becario_196,Diseño,1
+197,Becario_197,Arquitectura,1
+198,Becario_198,Administración,1
+199,Becario_199,Medicina,5
+200,Becario_200,Psicología,1
+201,Becario_201,Psicología,1
+202,Becario_202,Ing. Sistemas,2
+203,Becario_203,Comunicación,4
+204,Becario_204,Psicología,5
+205,Becario_205,Derecho,4
+206,Becario_206,Administración,3
+207,Becario_207,Administración,3
+208,Becario_208,Derecho,1
+209,Becario_209,Ing. Civil,5
+210,Becario_210,Derecho,4
+211,Becario_211,Derecho,3
+212,Becario_212,Administración,4
+213,Becario_213,Contaduría,4
+214,Becario_214,Administración,3
+215,Becario_215,Comunicación,5
+216,Becario_216,Ing. Sistemas,5
+217,Becario_217,Diseño,3
+218,Becario_218,Contaduría,3
+219,Becario_219,Medicina,1
+220,Becario_220,Diseño,3
+221,Becario_221,Ing. Sistemas,1
+222,Becario_222,Comunicación,3
+223,Becario_223,Comunicación,5
+224,Becario_224,Medicina,3
+225,Becario_225,Contaduría,3
+226,Becario_226,Ing. Civil,2
+227,Becario_227,Derecho,1
+228,Becario_228,Contaduría,4
+229,Becario_229,Ing. Civil,1
+230,Becario_230,Comunicación,1
+231,Becario_231,Administración,2
+232,Becario_232,Ing. Sistemas,4
+233,Becario_233,Medicina,4
+234,Becario_234,Ing. Sistemas,1
+235,Becario_235,Arquitectura,3
+236,Becario_236,Arquitectura,3
+237,Becario_237,Contaduría,3
+238,Becario_238,Comunicación,3
+239,Becario_239,Comunicación,2
+240,Becario_240,Derecho,3
+241,Becario_241,Derecho,3
+242,Becario_242,Derecho,4
+243,Becario_243,Administración,3
+244,Becario_244,Diseño,2
+245,Becario_245,Psicología,2
+246,Becario_246,Diseño,3
+247,Becario_247,Ing. Sistemas,4
+248,Becario_248,Diseño,3
+249,Becario_249,Administración,3
+250,Becario_250,Ing. Sistemas,4
+251,Becario_251,Diseño,3
+252,Becario_252,Administración,2
+253,Becario_253,Psicología,4
+254,Becario_254,Diseño,2
+255,Becario_255,Administración,3
+256,Becario_256,Derecho,5
+257,Becario_257,Comunicación,1
+258,Becario_258,Derecho,1
+259,Becario_259,Comunicación,2
+260,Becario_260,Medicina,5
+261,Becario_261,Medicina,1
+262,Becario_262,Medicina,1
+263,Becario_263,Psicología,1
+264,Becario_264,Derecho,1
+265,Becario_265,Comunicación,1
+266,Becario_266,Administración,3
+267,Becario_267,Ing. Sistemas,3
+268,Becario_268,Administración,2
+269,Becario_269,Ing. Sistemas,2
+270,Becario_270,Arquitectura,1
+271,Becario_271,Administración,2
+272,Becario_272,Diseño,3
+273,Becario_273,Diseño,4
+274,Becario_274,Contaduría,1
+275,Becario_275,Derecho,3
+276,Becario_276,Ing. Sistemas,2
+277,Becario_277,Ing. Sistemas,4
+278,Becario_278,Derecho,4
+279,Becario_279,Psicología,3
+280,Becario_280,Contaduría,2
+281,Becario_281,Psicología,5
+282,Becario_282,Psicología,1
+283,Becario_283,Psicología,1
+284,Becario_284,Derecho,2
+285,Becario_285,Psicología,1
+286,Becario_286,Diseño,5
+287,Becario_287,Medicina,4
+288,Becario_288,Arquitectura,2
+289,Becario_289,Ing. Sistemas,3
+290,Becario_290,Ing. Sistemas,5
+291,Becario_291,Arquitectura,4
+292,Becario_292,Derecho,3
+293,Becario_293,Administración,5
+294,Becario_294,Derecho,5
+295,Becario_295,Ing. Sistemas,4
+296,Becario_296,Ing. Sistemas,1
+297,Becario_297,Arquitectura,2
+298,Becario_298,Psicología,4
+299,Becario_299,Derecho,2
+300,Becario_300,Comunicación,4
+301,Becario_301,Arquitectura,1
+302,Becario_302,Diseño,1
+303,Becario_303,Ing. Sistemas,2
+304,Becario_304,Arquitectura,1
+305,Becario_305,Derecho,5
+306,Becario_306,Ing. Sistemas,4
+307,Becario_307,Administración,4
+308,Becario_308,Arquitectura,3
+309,Becario_309,Contaduría,2
+310,Becario_310,Ing. Sistemas,3
+311,Becario_311,Derecho,3
+312,Becario_312,Medicina,3
+313,Becario_313,Comunicación,2
+314,Becario_314,Ing. Civil,3
+315,Becario_315,Psicología,3
+316,Becario_316,Ing. Civil,5
+317,Becario_317,Derecho,4
+318,Becario_318,Diseño,3
+319,Becario_319,Diseño,3
+320,Becario_320,Medicina,4
+321,Becario_321,Psicología,1
+322,Becario_322,Contaduría,4
+323,Becario_323,Medicina,4
+324,Becario_324,Ing. Civil,3
+325,Becario_325,Medicina,2
+326,Becario_326,Ing. Civil,2
+327,Becario_327,Ing. Sistemas,3
+328,Becario_328,Diseño,1
+329,Becario_329,Ing. Sistemas,4
+330,Becario_330,Comunicación,1
+331,Becario_331,Psicología,2
+332,Becario_332,Contaduría,5
+333,Becario_333,Ing. Civil,4
+334,Becario_334,Contaduría,2
+335,Becario_335,Ing. Civil,2
+336,Becario_336,Derecho,1
+337,Becario_337,Medicina,3
+338,Becario_338,Comunicación,1
+339,Becario_339,Diseño,3
+340,Becario_340,Ing. Civil,5
+341,Becario_341,Contaduría,1
+342,Becario_342,Comunicación,4
+343,Becario_343,Administración,5
+344,Becario_344,Administración,1
+345,Becario_345,Ing. Sistemas,4
+346,Becario_346,Diseño,3
+347,Becario_347,Derecho,5
+348,Becario_348,Contaduría,3
+349,Becario_349,Medicina,3
+350,Becario_350,Medicina,3
+351,Becario_351,Contaduría,4
+352,Becario_352,Psicología,4
+353,Becario_353,Derecho,3
+354,Becario_354,Comunicación,4
+355,Becario_355,Ing. Civil,2
+356,Becario_356,Psicología,1
+357,Becario_357,Ing. Civil,1
+358,Becario_358,Ing. Civil,2
+359,Becario_359,Psicología,2
+360,Becario_360,Ing. Sistemas,5
+361,Becario_361,Administración,1
+362,Becario_362,Ing. Civil,3
+363,Becario_363,Psicología,1
+364,Becario_364,Psicología,4
+365,Becario_365,Arquitectura,5
+366,Becario_366,Ing. Sistemas,3
+367,Becario_367,Diseño,4
+368,Becario_368,Arquitectura,1
+369,Becario_369,Arquitectura,4
+370,Becario_370,Contaduría,2
+371,Becario_371,Administración,5
+372,Becario_372,Psicología,1
+373,Becario_373,Administración,3
+374,Becario_374,Derecho,4
+375,Becario_375,Contaduría,2
+376,Becario_376,Diseño,1
+377,Becario_377,Administración,1
+378,Becario_378,Medicina,2
+379,Becario_379,Ing. Civil,3
+380,Becario_380,Derecho,1
+381,Becario_381,Ing. Sistemas,2
+382,Becario_382,Diseño,1
+383,Becario_383,Derecho,4
+384,Becario_384,Ing. Civil,1
+385,Becario_385,Contaduría,2
+386,Becario_386,Ing. Civil,1
+387,Becario_387,Arquitectura,2
+388,Becario_388,Ing. Civil,4
+389,Becario_389,Arquitectura,2
+390,Becario_390,Contaduría,1
+391,Becario_391,Comunicación,4
+392,Becario_392,Arquitectura,4
+393,Becario_393,Ing. Sistemas,1
+394,Becario_394,Ing. Civil,4
+395,Becario_395,Ing. Civil,5
+396,Becario_396,Ing. Sistemas,1
+397,Becario_397,Medicina,4
+398,Becario_398,Psicología,4
+399,Becario_399,Comunicación,3
+400,Becario_400,Diseño,1
+401,Becario_401,Arquitectura,1
+402,Becario_402,Ing. Sistemas,4
+403,Becario_403,Contaduría,5
+404,Becario_404,Arquitectura,3
+405,Becario_405,Psicología,2
+406,Becario_406,Contaduría,3
+407,Becario_407,Derecho,3
+408,Becario_408,Ing. Civil,2
+409,Becario_409,Derecho,1
+410,Becario_410,Arquitectura,4
+411,Becario_411,Psicología,2
+412,Becario_412,Comunicación,4
+413,Becario_413,Arquitectura,2
+414,Becario_414,Ing. Sistemas,1
+415,Becario_415,Administración,1
+416,Becario_416,Arquitectura,3
+417,Becario_417,Ing. Civil,5
+418,Becario_418,Ing. Civil,1
+419,Becario_419,Arquitectura,4
+420,Becario_420,Contaduría,3
+421,Becario_421,Administración,4
+422,Becario_422,Ing. Sistemas,2
+423,Becario_423,Arquitectura,4
+424,Becario_424,Contaduría,4
+425,Becario_425,Ing. Civil,2
+426,Becario_426,Ing. Civil,1
+427,Becario_427,Psicología,4
+428,Becario_428,Arquitectura,5
+429,Becario_429,Administración,1
+430,Becario_430,Medicina,4
+431,Becario_431,Administración,5
+432,Becario_432,Ing. Civil,4
+433,Becario_433,Ing. Civil,5
+434,Becario_434,Derecho,4
+435,Becario_435,Ing. Civil,2
+436,Becario_436,Ing. Sistemas,2
+437,Becario_437,Diseño,2
+438,Becario_438,Arquitectura,4
+439,Becario_439,Administración,4
+440,Becario_440,Diseño,2
+441,Becario_441,Contaduría,4
+442,Becario_442,Medicina,4
+443,Becario_443,Ing. Sistemas,3
+444,Becario_444,Administración,3
+445,Becario_445,Diseño,3
+446,Becario_446,Medicina,1
+447,Becario_447,Derecho,2
+448,Becario_448,Ing. Sistemas,1
+449,Becario_449,Ing. Sistemas,1
+450,Becario_450,Derecho,3
+451,Becario_451,Arquitectura,3
+452,Becario_452,Derecho,1
+453,Becario_453,Ing. Sistemas,4
+454,Becario_454,Ing. Sistemas,2
+455,Becario_455,Diseño,5
+456,Becario_456,Ing. Civil,5
+457,Becario_457,Medicina,1
+458,Becario_458,Derecho,3
+459,Becario_459,Medicina,1
+460,Becario_460,Derecho,3
+461,Becario_461,Contaduría,3
+462,Becario_462,Ing. Sistemas,2
+463,Becario_463,Ing. Civil,3
+464,Becario_464,Diseño,2
+465,Becario_465,Ing. Civil,1
+466,Becario_466,Ing. Civil,3
+467,Becario_467,Ing. Civil,2
+468,Becario_468,Medicina,3
+469,Becario_469,Derecho,2
+470,Becario_470,Comunicación,5
+471,Becario_471,Contaduría,1
+472,Becario_472,Administración,3
+473,Becario_473,Ing. Civil,3
+474,Becario_474,Arquitectura,2
+475,Becario_475,Medicina,5
+476,Becario_476,Diseño,4
+477,Becario_477,Administración,3
+478,Becario_478,Comunicación,4
+479,Becario_479,Arquitectura,5
+480,Becario_480,Comunicación,5
+481,Becario_481,Administración,4
+482,Becario_482,Ing. Civil,4
+483,Becario_483,Arquitectura,1
+484,Becario_484,Comunicación,1
+485,Becario_485,Diseño,3
+486,Becario_486,Derecho,1
+487,Becario_487,Ing. Sistemas,3
+488,Becario_488,Derecho,2
+489,Becario_489,Administración,2
+490,Becario_490,Medicina,4
+491,Becario_491,Ing. Sistemas,5
+492,Becario_492,Contaduría,1
+493,Becario_493,Diseño,3
+494,Becario_494,Contaduría,4
+495,Becario_495,Arquitectura,1
+496,Becario_496,Ing. Sistemas,4
+497,Becario_497,Contaduría,2
+498,Becario_498,Contaduría,2
+499,Becario_499,Comunicación,5
+500,Becario_500,Derecho,2
+501,Becario_501,Comunicación,3
+502,Becario_502,Ing. Sistemas,4
+503,Becario_503,Ing. Sistemas,1
+504,Becario_504,Administración,3
+505,Becario_505,Comunicación,5
+506,Becario_506,Psicología,1
+507,Becario_507,Derecho,4
+508,Becario_508,Ing. Sistemas,3
+509,Becario_509,Administración,3
+510,Becario_510,Comunicación,3
+511,Becario_511,Derecho,2
+512,Becario_512,Comunicación,5
+513,Becario_513,Contaduría,5
+514,Becario_514,Administración,3
+515,Becario_515,Derecho,4
+516,Becario_516,Ing. Civil,3
+517,Becario_517,Arquitectura,3
+518,Becario_518,Arquitectura,3
+519,Becario_519,Derecho,3
+520,Becario_520,Comunicación,3
+521,Becario_521,Administración,4
+522,Becario_522,Arquitectura,3
+523,Becario_523,Administración,1
+524,Becario_524,Arquitectura,1
+525,Becario_525,Contaduría,2
+526,Becario_526,Comunicación,4
+527,Becario_527,Contaduría,3
+528,Becario_528,Arquitectura,3
+529,Becario_529,Ing. Civil,3
+530,Becario_530,Ing. Civil,3
+531,Becario_531,Contaduría,2
+532,Becario_532,Ing. Civil,3
+533,Becario_533,Arquitectura,4
+534,Becario_534,Derecho,4
+535,Becario_535,Contaduría,2
+536,Becario_536,Medicina,1
+537,Becario_537,Comunicación,1
+538,Becario_538,Ing. Civil,1
+539,Becario_539,Ing. Civil,3
+540,Becario_540,Ing. Sistemas,2
+541,Becario_541,Psicología,3
+542,Becario_542,Contaduría,3
+543,Becario_543,Diseño,1
+544,Becario_544,Ing. Civil,2
+545,Becario_545,Comunicación,2
+546,Becario_546,Medicina,2
+547,Becario_547,Ing. Civil,2
+548,Becario_548,Medicina,4
+549,Becario_549,Arquitectura,1
+550,Becario_550,Arquitectura,5
+551,Becario_551,Psicología,2
+552,Becario_552,Derecho,4
+553,Becario_553,Diseño,3
+554,Becario_554,Ing. Sistemas,4
+555,Becario_555,Psicología,4
+556,Becario_556,Administración,3
+557,Becario_557,Ing. Sistemas,3
+558,Becario_558,Contaduría,3
+559,Becario_559,Comunicación,3
+560,Becario_560,Administración,1
+561,Becario_561,Administración,2
+562,Becario_562,Psicología,3
+563,Becario_563,Derecho,3
+564,Becario_564,Psicología,4
+565,Becario_565,Contaduría,3
+566,Becario_566,Ing. Civil,5
+567,Becario_567,Ing. Civil,2
+568,Becario_568,Derecho,2
+569,Becario_569,Contaduría,2
+570,Becario_570,Derecho,3
+571,Becario_571,Medicina,4
+572,Becario_572,Ing. Civil,2
+573,Becario_573,Administración,4
+574,Becario_574,Diseño,2
+575,Becario_575,Comunicación,3
+576,Becario_576,Contaduría,3
+577,Becario_577,Ing. Sistemas,2
+578,Becario_578,Derecho,3
+579,Becario_579,Comunicación,2
+580,Becario_580,Ing. Sistemas,1
+581,Becario_581,Comunicación,2
+582,Becario_582,Diseño,1
+583,Becario_583,Ing. Sistemas,2
+584,Becario_584,Psicología,3
+585,Becario_585,Arquitectura,3
+586,Becario_586,Psicología,3
+587,Becario_587,Ing. Civil,1
+588,Becario_588,Arquitectura,3
+589,Becario_589,Psicología,2
+590,Becario_590,Arquitectura,2
+591,Becario_591,Arquitectura,4
+592,Becario_592,Administración,1
+593,Becario_593,Derecho,3
+594,Becario_594,Derecho,3
+595,Becario_595,Administración,2
+596,Becario_596,Comunicación,2
+597,Becario_597,Medicina,2
+598,Becario_598,Comunicación,4
+599,Becario_599,Ing. Sistemas,2
+600,Becario_600,Ing. Sistemas,2
+601,Becario_601,Arquitectura,2
+602,Becario_602,Psicología,3
+603,Becario_603,Psicología,1
+604,Becario_604,Derecho,2
+605,Becario_605,Contaduría,3
+606,Becario_606,Comunicación,5
+607,Becario_607,Ing. Civil,2
+608,Becario_608,Diseño,2
+609,Becario_609,Psicología,2
+610,Becario_610,Diseño,3
+611,Becario_611,Arquitectura,2
+612,Becario_612,Diseño,3
+613,Becario_613,Ing. Civil,4
+614,Becario_614,Administración,4
+615,Becario_615,Ing. Civil,2
+616,Becario_616,Diseño,4
+617,Becario_617,Ing. Civil,3
+618,Becario_618,Medicina,3
+619,Becario_619,Arquitectura,1
+620,Becario_620,Comunicación,5
+621,Becario_621,Administración,1
+622,Becario_622,Psicología,2
+623,Becario_623,Ing. Sistemas,1
+624,Becario_624,Comunicación,3
+625,Becario_625,Ing. Sistemas,2
+626,Becario_626,Arquitectura,1
+627,Becario_627,Administración,1
+628,Becario_628,Derecho,1
+629,Becario_629,Psicología,3
+630,Becario_630,Medicina,3
+631,Becario_631,Derecho,2
+632,Becario_632,Arquitectura,3
+633,Becario_633,Comunicación,3
+634,Becario_634,Medicina,1
+635,Becario_635,Ing. Civil,2
+636,Becario_636,Diseño,5
+637,Becario_637,Medicina,3
+638,Becario_638,Arquitectura,2
+639,Becario_639,Contaduría,3
+640,Becario_640,Diseño,2
+641,Becario_641,Ing. Sistemas,3
+642,Becario_642,Psicología,1
+643,Becario_643,Ing. Sistemas,1
+644,Becario_644,Medicina,1
+645,Becario_645,Ing. Sistemas,5
+646,Becario_646,Arquitectura,4
+647,Becario_647,Ing. Civil,1
+648,Becario_648,Comunicación,1
+649,Becario_649,Psicología,4
+650,Becario_650,Ing. Sistemas,1
+651,Becario_651,Ing. Sistemas,2
+652,Becario_652,Medicina,5
+653,Becario_653,Comunicación,2
+654,Becario_654,Derecho,3
+655,Becario_655,Ing. Sistemas,5
+656,Becario_656,Arquitectura,2
+657,Becario_657,Contaduría,1
+658,Becario_658,Psicología,2
+659,Becario_659,Ing. Sistemas,4
+660,Becario_660,Arquitectura,4
+661,Becario_661,Arquitectura,4
+662,Becario_662,Psicología,1
+663,Becario_663,Derecho,4
+664,Becario_664,Arquitectura,5
+665,Becario_665,Contaduría,3
+666,Becario_666,Arquitectura,5
+667,Becario_667,Arquitectura,4
+668,Becario_668,Arquitectura,3
+669,Becario_669,Ing. Civil,3
+670,Becario_670,Ing. Civil,2
+671,Becario_671,Derecho,1
+672,Becario_672,Ing. Sistemas,3
+673,Becario_673,Arquitectura,2
+674,Becario_674,Comunicación,4
+675,Becario_675,Ing. Sistemas,5
+676,Becario_676,Derecho,4
+677,Becario_677,Administración,1
+678,Becario_678,Ing. Sistemas,2
+679,Becario_679,Ing. Sistemas,1
+680,Becario_680,Diseño,3
+681,Becario_681,Medicina,4
+682,Becario_682,Diseño,5
+683,Becario_683,Contaduría,2
+684,Becario_684,Ing. Civil,5
+685,Becario_685,Ing. Civil,4
+686,Becario_686,Medicina,2
+687,Becario_687,Psicología,4
+688,Becario_688,Psicología,2
+689,Becario_689,Derecho,2
+690,Becario_690,Medicina,3
+691,Becario_691,Ing. Sistemas,2
+692,Becario_692,Psicología,3
+693,Becario_693,Arquitectura,3
+694,Becario_694,Comunicación,3
+695,Becario_695,Ing. Sistemas,2
+696,Becario_696,Contaduría,3
+697,Becario_697,Arquitectura,3
+698,Becario_698,Arquitectura,3
+699,Becario_699,Medicina,2
+700,Becario_700,Derecho,1
+701,Becario_701,Contaduría,3
+702,Becario_702,Psicología,1
+703,Becario_703,Medicina,3
+704,Becario_704,Psicología,4
+705,Becario_705,Medicina,3
+706,Becario_706,Medicina,3
+707,Becario_707,Medicina,5
+708,Becario_708,Derecho,4
+709,Becario_709,Medicina,5
+710,Becario_710,Administración,4
+711,Becario_711,Comunicación,1
+712,Becario_712,Psicología,1
+713,Becario_713,Ing. Sistemas,3
+714,Becario_714,Diseño,2
+715,Becario_715,Contaduría,3
+716,Becario_716,Ing. Civil,2
+717,Becario_717,Derecho,3
+718,Becario_718,Ing. Sistemas,4
+719,Becario_719,Arquitectura,4
+720,Becario_720,Administración,3
+721,Becario_721,Ing. Civil,4
+722,Becario_722,Diseño,2
+723,Becario_723,Ing. Sistemas,4
+724,Becario_724,Ing. Civil,1
+725,Becario_725,Ing. Sistemas,5
+726,Becario_726,Administración,3
+727,Becario_727,Diseño,2
+728,Becario_728,Arquitectura,1
+729,Becario_729,Medicina,3
+730,Becario_730,Psicología,1
+731,Becario_731,Arquitectura,1
+732,Becario_732,Medicina,3
+733,Becario_733,Derecho,3
+734,Becario_734,Comunicación,3
+735,Becario_735,Contaduría,5
+736,Becario_736,Contaduría,3
+737,Becario_737,Psicología,3
+738,Becario_738,Diseño,1
+739,Becario_739,Administración,4
+740,Becario_740,Diseño,2
+741,Becario_741,Administración,5
+742,Becario_742,Diseño,4
+743,Becario_743,Comunicación,3
+744,Becario_744,Derecho,1
+745,Becario_745,Derecho,4
+746,Becario_746,Medicina,4
+747,Becario_747,Ing. Civil,1
+748,Becario_748,Derecho,2
+749,Becario_749,Derecho,4
+750,Becario_750,Arquitectura,1
+751,Becario_751,Arquitectura,5
+752,Becario_752,Medicina,2
+753,Becario_753,Ing. Civil,1
+754,Becario_754,Psicología,4
+755,Becario_755,Arquitectura,2
+756,Becario_756,Psicología,3
+757,Becario_757,Ing. Sistemas,1
+758,Becario_758,Arquitectura,1
+759,Becario_759,Comunicación,3
+760,Becario_760,Ing. Civil,3
+761,Becario_761,Medicina,3
+762,Becario_762,Ing. Sistemas,4
+763,Becario_763,Ing. Civil,3
+764,Becario_764,Comunicación,1
+765,Becario_765,Ing. Civil,2
+766,Becario_766,Comunicación,5
+767,Becario_767,Comunicación,4
+768,Becario_768,Psicología,3
+769,Becario_769,Diseño,2
+770,Becario_770,Ing. Sistemas,2
+771,Becario_771,Ing. Civil,4
+772,Becario_772,Administración,4
+773,Becario_773,Ing. Sistemas,3
+774,Becario_774,Diseño,4
+775,Becario_775,Ing. Sistemas,4
+776,Becario_776,Derecho,1
+777,Becario_777,Administración,2
+778,Becario_778,Diseño,1
+779,Becario_779,Psicología,2
+780,Becario_780,Ing. Civil,4
+781,Becario_781,Contaduría,3
+782,Becario_782,Diseño,3
+783,Becario_783,Medicina,1
+784,Becario_784,Ing. Civil,2
+785,Becario_785,Diseño,2
+786,Becario_786,Derecho,2
+787,Becario_787,Contaduría,3
+788,Becario_788,Derecho,2
+789,Becario_789,Contaduría,3
+790,Becario_790,Medicina,1
+791,Becario_791,Ing. Civil,1
+792,Becario_792,Psicología,2
+793,Becario_793,Derecho,3
+794,Becario_794,Derecho,3
+795,Becario_795,Comunicación,2
+796,Becario_796,Contaduría,2
+797,Becario_797,Arquitectura,4
+798,Becario_798,Ing. Civil,1
+799,Becario_799,Contaduría,2
+800,Becario_800,Comunicación,4
+801,Becario_801,Ing. Sistemas,3
+802,Becario_802,Contaduría,2
+803,Becario_803,Psicología,5
+804,Becario_804,Ing. Civil,4
+805,Becario_805,Comunicación,2
+806,Becario_806,Ing. Sistemas,3
+807,Becario_807,Administración,3
+808,Becario_808,Comunicación,2
+809,Becario_809,Administración,2
+810,Becario_810,Ing. Civil,2
+811,Becario_811,Derecho,3
+812,Becario_812,Comunicación,2
+813,Becario_813,Medicina,4
+814,Becario_814,Administración,3
+815,Becario_815,Psicología,1
+816,Becario_816,Medicina,3
+817,Becario_817,Diseño,2
+818,Becario_818,Diseño,3
+819,Becario_819,Ing. Sistemas,3
+820,Becario_820,Derecho,2
+821,Becario_821,Ing. Civil,3
+822,Becario_822,Comunicación,1
+823,Becario_823,Arquitectura,1
+824,Becario_824,Psicología,2
+825,Becario_825,Administración,2
+826,Becario_826,Ing. Civil,5
+827,Becario_827,Medicina,2
+828,Becario_828,Diseño,2
+829,Becario_829,Psicología,3
+830,Becario_830,Arquitectura,1
+831,Becario_831,Comunicación,5
+832,Becario_832,Ing. Sistemas,3
+833,Becario_833,Arquitectura,4
+834,Becario_834,Psicología,1
+835,Becario_835,Arquitectura,2
+836,Becario_836,Psicología,2
+837,Becario_837,Psicología,4
+838,Becario_838,Contaduría,1
+839,Becario_839,Administración,2
+840,Becario_840,Diseño,5
+841,Becario_841,Contaduría,3
+842,Becario_842,Comunicación,2
+843,Becario_843,Contaduría,1
+844,Becario_844,Derecho,5
+845,Becario_845,Derecho,1
+846,Becario_846,Diseño,4
+847,Becario_847,Arquitectura,4
+848,Becario_848,Administración,2
+849,Becario_849,Diseño,3
+850,Becario_850,Psicología,1
+851,Becario_851,Medicina,2
+852,Becario_852,Administración,4
+853,Becario_853,Administración,4
+854,Becario_854,Psicología,3
+855,Becario_855,Psicología,3
+856,Becario_856,Ing. Sistemas,1
+857,Becario_857,Diseño,1
+858,Becario_858,Psicología,1
+859,Becario_859,Derecho,2
+860,Becario_860,Comunicación,2
+861,Becario_861,Medicina,2
+862,Becario_862,Diseño,2
+863,Becario_863,Ing. Civil,2
+864,Becario_864,Derecho,3
+865,Becario_865,Arquitectura,4
+866,Becario_866,Psicología,2
+867,Becario_867,Ing. Civil,5
+868,Becario_868,Psicología,4
+869,Becario_869,Administración,1
+870,Becario_870,Derecho,4
+871,Becario_871,Administración,3
+872,Becario_872,Ing. Sistemas,3
+873,Becario_873,Administración,2
+874,Becario_874,Ing. Sistemas,3
+875,Becario_875,Ing. Sistemas,2
+876,Becario_876,Ing. Civil,3
+877,Becario_877,Psicología,3
+878,Becario_878,Arquitectura,3
+879,Becario_879,Administración,3
+880,Becario_880,Derecho,4
+881,Becario_881,Ing. Sistemas,1
+882,Becario_882,Psicología,2
+883,Becario_883,Medicina,4
+884,Becario_884,Diseño,2
+885,Becario_885,Ing. Civil,1
+886,Becario_886,Arquitectura,1
+887,Becario_887,Contaduría,2
+888,Becario_888,Ing. Civil,5
+889,Becario_889,Medicina,3
+890,Becario_890,Diseño,5
+891,Becario_891,Medicina,3
+892,Becario_892,Administración,3
+893,Becario_893,Ing. Sistemas,2
+894,Becario_894,Arquitectura,3
+895,Becario_895,Comunicación,1
+896,Becario_896,Ing. Sistemas,4
+897,Becario_897,Comunicación,4
+898,Becario_898,Diseño,2
+899,Becario_899,Psicología,5
+900,Becario_900,Contaduría,4
+901,Becario_901,Derecho,3
+902,Becario_902,Ing. Sistemas,1
+903,Becario_903,Arquitectura,3
+904,Becario_904,Medicina,3
+905,Becario_905,Arquitectura,2
+906,Becario_906,Diseño,1
+907,Becario_907,Comunicación,4
+908,Becario_908,Medicina,1
+909,Becario_909,Derecho,3
+910,Becario_910,Derecho,5
+911,Becario_911,Ing. Sistemas,4
+912,Becario_912,Diseño,2
+913,Becario_913,Psicología,4
+914,Becario_914,Diseño,1
+915,Becario_915,Comunicación,1
+916,Becario_916,Arquitectura,3
+917,Becario_917,Derecho,2
+918,Becario_918,Arquitectura,2
+919,Becario_919,Arquitectura,3
+920,Becario_920,Arquitectura,1
+921,Becario_921,Derecho,2
+922,Becario_922,Ing. Civil,3
+923,Becario_923,Administración,4
+924,Becario_924,Comunicación,3
+925,Becario_925,Ing. Civil,2
+926,Becario_926,Comunicación,2
+927,Becario_927,Medicina,1
+928,Becario_928,Diseño,1
+929,Becario_929,Diseño,4
+930,Becario_930,Contaduría,2
+931,Becario_931,Diseño,1
+932,Becario_932,Derecho,3
+933,Becario_933,Psicología,3
+934,Becario_934,Ing. Sistemas,3
+935,Becario_935,Contaduría,2
+936,Becario_936,Ing. Sistemas,2
+937,Becario_937,Comunicación,2
+938,Becario_938,Ing. Sistemas,1
+939,Becario_939,Ing. Sistemas,3
+940,Becario_940,Contaduría,4
+941,Becario_941,Medicina,4
+942,Becario_942,Arquitectura,4
+943,Becario_943,Diseño,2
+944,Becario_944,Diseño,3
+945,Becario_945,Derecho,2
+946,Becario_946,Contaduría,3
+947,Becario_947,Derecho,3
+948,Becario_948,Psicología,1
+949,Becario_949,Psicología,2
+950,Becario_950,Derecho,5
+951,Becario_951,Contaduría,2
+952,Becario_952,Derecho,1
+953,Becario_953,Diseño,2
+954,Becario_954,Ing. Civil,4
+955,Becario_955,Administración,3
+956,Becario_956,Ing. Sistemas,3
+957,Becario_957,Administración,1
+958,Becario_958,Contaduría,3
+959,Becario_959,Administración,2
+960,Becario_960,Psicología,4
+961,Becario_961,Comunicación,3
+962,Becario_962,Ing. Sistemas,1
+963,Becario_963,Arquitectura,1
+964,Becario_964,Contaduría,1
+965,Becario_965,Ing. Sistemas,2
+966,Becario_966,Administración,2
+967,Becario_967,Psicología,3
+968,Becario_968,Medicina,3
+969,Becario_969,Ing. Civil,2
+970,Becario_970,Arquitectura,1
+971,Becario_971,Ing. Civil,1
+972,Becario_972,Ing. Sistemas,4
+973,Becario_973,Psicología,2
+974,Becario_974,Psicología,3
+975,Becario_975,Administración,4
+976,Becario_976,Diseño,3
+977,Becario_977,Administración,4
+978,Becario_978,Diseño,2
+979,Becario_979,Diseño,5
+980,Becario_980,Arquitectura,1
+981,Becario_981,Administración,1
+982,Becario_982,Medicina,3
+983,Becario_983,Derecho,5
+984,Becario_984,Derecho,4
+985,Becario_985,Administración,1
+986,Becario_986,Administración,2
+987,Becario_987,Ing. Civil,5
+988,Becario_988,Arquitectura,2
+989,Becario_989,Administración,4
+990,Becario_990,Ing. Civil,4
+991,Becario_991,Diseño,3
+992,Becario_992,Psicología,2
+993,Becario_993,Psicología,3
+994,Becario_994,Diseño,2
+995,Becario_995,Contaduría,4
+996,Becario_996,Ing. Civil,3
+997,Becario_997,Ing. Civil,4
+998,Becario_998,Diseño,1
+999,Becario_999,Medicina,5
+1000,Becario_1000,Comunicación,2
